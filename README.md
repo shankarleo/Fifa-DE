@@ -241,4 +241,4 @@ _Add more charts here, for example goals by time and top scorers._
 
 ## Author
 
-**Your Name** | [LinkedIn](www.linkedin.com/in/giddanti-shankar-541b7a217) | [GitHub](https://github.com/shankarleo)
+Giddanti Shankar | [LinkedIn](www.linkedin.com/in/giddanti-shankar-541b7a217) | [GitHub](https://github.com/shankarleo)
